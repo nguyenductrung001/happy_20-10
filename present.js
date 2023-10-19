@@ -5,7 +5,7 @@
 
 var to = nameGirl;
 var gift_url = giftUrl;
-var gift_image_url = giftImage || giftImageBase64;
+var gift_image_url = giftImage1 || giftImageBase64;
 
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
